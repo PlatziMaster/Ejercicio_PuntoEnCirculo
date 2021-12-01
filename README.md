@@ -1,10 +1,23 @@
-# Ejercicio_PuntoEnCirculo
-En este ejercicio tienes que hacer una función, la cual dados el radio de un círculo con centro en el (0,0) y el punto (x,y) determine si el punto se encuentra dentro del círculo imprimiendo la respuesta.
+# Exercise_DotInCircle
+
+## Overview
+
+In this exercise you have to make a function, which given circle radius with
+center at (0,0) and dot (x,y) it determines if dot is in circle printing answer.
+
 ## Descripción
-Este ejercicio es de entendimiento, pero lo que se busca es que seas capaz de buscar y entender cuáles son las propiedades de un círculo, te recomiendo empezar por entender cuál es la fórmula re un círculo y yo te recuerdo que puedes encontrar si un punto se encuentra dentro de una función con base en una desigualdad. 
+
+This exercise is of understanding, but its goal is you are able to search and
+understand what are the properties of a circle, I recommend to begin for
+understand which is the circle's formula and I remember you that you can find
+if a dot is within a circle based on a inequality.
 
 ## Hint
-Puedes ver si tu fórmula está funcionando de manera visual si graficas el resultado en el plano cartesiano.
+
+You can see if your formula is working from visual way if you plot the result.
 
 ## Bonus
-Resuelve este ejercicio pero sin asumir que el centro del círculo se encuentra en el (0,0).
+
+Resolve this exercise but without assume that circle's center is encounter at
+(0,0).
+
