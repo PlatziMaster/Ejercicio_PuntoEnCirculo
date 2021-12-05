@@ -82,3 +82,22 @@ Finally we can compare the hypotenuse with the rope length and if it's greater
 than last one it means that the stone is outside the circle.
 
 Eureka!
+
+## Algorithm
+
+ 1. begin.
+ 2. read: `radius`, `dot_x`, `dot_y`, `center_x` = `0`, `center_y` = `0`.
+ 3. verify: `radius`, `dot_x`, `dot_y`, `center_x`, `center_y` are _numbers_.
+ 4. if `true` then continue else goto: step 14.
+ 5. verify: `radius` is greater than `0`.
+ 6. if `true` then continue else goto: step 15.
+ 7. set: `side_a`, `side_b`, `hypotenuse` as _number_.
+ 8. calculate: `side_a` = `dot_x` - `center_x`.
+ 9. calculate: `side_b` = `dot_y` - `center_y`.
+10. calculate: `hypotenuse` = (`side_a` ^ 2 + `side_b` ^ 2) ^ (1 / 2)
+11. compare: `hypotenuse` is greater than `radius`.
+12. if `true` then return: 'outside' else return: 'inside'.
+13. goto: step 16.
+14. return: 'at least a given data is not a numeric value'.
+15. return: 'radius can't be less than 0'.
+16. end.
