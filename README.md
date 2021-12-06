@@ -101,3 +101,7 @@ Eureka!
 14. return: 'at least a given data is not a numeric value'.
 15. return: 'radius can't be less than 0'.
 16. end.
+
+## Flow diagram
+
+![dot in circle flow diagram](dot-in-circle-flow-diagram.svg)
