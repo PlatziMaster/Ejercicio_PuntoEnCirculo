@@ -105,3 +105,14 @@ Eureka!
 ## Flow diagram
 
 ![dot in circle flow diagram](static/dot-in-circle-flow-diagram.svg)
+
+## Implementations
+
+### Python
+
+Can read specific documentation in [Python docs](python/README.md)
+
+## ToDo
+
+- [ ] Implentation in PHP
+- [ ] Implementation in TypeScript
