@@ -8,3 +8,8 @@ Puedes ver si tu fórmula está funcionando de manera visual si graficas el resu
 
 ## Bonus
 Resuelve este ejercicio pero sin asumir que el centro del círculo se encuentra en el (0,0).
+
+# Solución
+1. El programa solicita el punto central del círculo (en coordenadas cartesianas) y su radio.
+2. Ahora solicita un punto cualquiera.
+3. El programa devuelve un mensaje indicando si el punto está dentro o fuera del círculo.
