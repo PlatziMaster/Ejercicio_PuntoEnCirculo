@@ -38,5 +38,5 @@ yP = coordenada en Y para el punto.
 xC = coordenada en X para el centro.
 yC = coordenada en Y para el centro.
 
-#####Podremos tener estos posibles resultados
+##### Podremos tener estos posibles resultados
 ![](https://docs.google.com/drawings/d/e/2PACX-1vRl37nuQmULsRTusDKh4ELGZzLfwfK67nuQNIepsJf7Pe0YDTrGe5-xAxL_-DuDJCdMNgldNj4qao2l/pub?w=367&h=225)
