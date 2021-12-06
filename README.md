@@ -104,4 +104,4 @@ Eureka!
 
 ## Flow diagram
 
-![dot in circle flow diagram](dot-in-circle-flow-diagram.svg)
+![dot in circle flow diagram](static/dot-in-circle-flow-diagram.svg)
